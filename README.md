@@ -15,6 +15,11 @@
 - 👨‍💻 As a Software Engineering graduate, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with JavaScript, React, ASP.NET And Angular, or anything related to web development.
 - 👨‍💻 Check out my github to see some of the projects I've worked on.
+  
+## My LinkedIn: 
+
+[![Linkedin Badge](https://img.shields.io/badge/-Yousif%20Mohamed-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/youssif-mohamed-450795157/)](www.linkedin.com/in/khaloud-al-mamari-4883b021a/) 
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=Khaloud97" alt="Khaloud97" /> </p>
 
 
 ## Programming Languages:
