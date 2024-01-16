@@ -19,8 +19,6 @@
 ## My LinkedIn: 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Khaloud-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/khaloud-al-mamari-4883b021a/)](https://www.linkedin.com/in/khaloud-al-mamari-4883b021a/)
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Khaloud97" alt="Khaloud97" /> </p>
-
 
 ## Programming Languages:
 <img src = 'https://github.com/123usef/123usef/blob/main/images/cpp.svg' width='30'/> <img src = 'https://github.com/123usef/123usef/blob/main/images/python2.png' height='30'/>  <img src = 'https://github.com/123usef/123usef/blob/main/images/html.svg' width='30'/>   <img src = 'https://github.com/123usef/123usef/blob/main/images/css.svg' width='30'/> <img src = 'https://github.com/123usef/123usef/blob/main/images/java.svg' width='30'/> <img src = 'https://github.com/123usef/123usef/blob/main/images/bootstrap.svg' width='33'/>  <img src = 'https://github.com/123usef/123usef/blob/main/images/php.svg' width='40'/>
