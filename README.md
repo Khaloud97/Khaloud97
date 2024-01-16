@@ -16,6 +16,12 @@
 - 💬 Ask me about my experience with JavaScript, React, ASP.NET And Angular, or anything related to web development.
 - 👨‍💻 Check out my github to see some of the projects I've worked on.
 
+
+## Programming Languages:
+<img src = 'https://github.com/123usef/123usef/blob/main/images/c-original.svg' width='30'/> <img src = 'https://github.com/123usef/123usef/blob/main/images/cpp.svg' width='30'/> <img src = 'https://github.com/123usef/123usef/blob/main/images/python2.png' height='30'/>  <img src = 'https://github.com/123usef/123usef/blob/main/images/html.svg' width='30'/>   <img src = 'https://github.com/123usef/123usef/blob/main/images/css.svg' width='30'/> <img src = 'https://github.com/123usef/123usef/blob/main/images/java.svg' width='30'/> <img src = 'https://github.com/123usef/123usef/blob/main/images/bootstrap.svg' width='33'/>  <img src = 'https://github.com/123usef/123usef/blob/main/images/php.svg' width='40'/>
+ <img src = 'https://github.com/123usef/123usef/blob/main/images/sql.svg' width='30'/> <img src = 'https://github.com/123usef/123usef/blob/main/images/c--4.svg' width='30'/> <img src = 'https://github.com/123usef/123usef/blob/main/images/NET_Core_Logo.svg' width='30'/>
+
+
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
