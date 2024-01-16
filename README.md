@@ -18,7 +18,7 @@
   
 ## My LinkedIn: 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Yousif%20Mohamed-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/youssif-mohamed-450795157/)](www.linkedin.com/in/khaloud-al-mamari-4883b021a/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Khaloud-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/youssif-mohamed-450795157/)](www.linkedin.com/in/khaloud-al-mamari-4883b021a) 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=Khaloud97" alt="Khaloud97" /> </p>
 
 
